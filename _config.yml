@@ -27,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 github_username: anderjef
 show_downloads: false
 google_analytics: G-BQ4VQR0YJ8
+repository: anderjef/anderjef.github.io
 
 # Build settings
 theme: jekyll-theme-cayman
