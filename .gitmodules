@@ -1,0 +1,3 @@
+[submodule "Wordle-Rx"]
+	path = Wordle-Rx
+	url = https://github.com/anderjef/Wordle-Rx
